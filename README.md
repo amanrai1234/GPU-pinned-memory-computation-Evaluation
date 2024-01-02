@@ -1,5 +1,5 @@
 # GPU-pinned-memory-computation-Evaluation
-Un-pageable vs Pageable GPU memory additions
+Non-pageable vs Pageable GPU memory additions
 
 
 Here I have the implementaion of Normal vec addition vs unfied vec addition 1d.
